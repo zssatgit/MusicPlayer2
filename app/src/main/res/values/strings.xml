@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MusicPlayer2</string>
+    <string name="songActivity">Songs</string>
+    <string name="artistActivity">Artists</string>
+    <string name="tagActivity">Tags</string>
+    <string name="artistActivity_description">(按照歌手名字排序)</string>
+    <string name="albumpic">albumPic</string>
+    <string name="shuffle">shuffle</string>
+    <string name="playlist">playlist</string>
+    <string name="skip_previous">skip previous</string>
+    <string name="play_button">play button</string>
+    <string name="skip_next">skip next</string>
+    <string name="tagActivity_description">(显示标记歌曲)</string>
+    <string name="play_or_pause">play_or_pause</string>
+    <string name="artists">Artists</string>
+    <string name="songs">Songs</string>
+    <string name="song1Title">僕らの手には何もないけど、</string>
+    <string name="song1Artist">RAM WIRE</string>
+    <string name="song2Title">Sugar</string>
+    <string name="song2Artist">Maroon 5</string>
+    <string name="song3Title">I Really Like You</string>
+    <string name="song3Artist">Carly Rae Jepsen</string>
+    <string name="song4Title">Lips Are Movin</string>
+    <string name="song4Artist">Meghan Trainor</string>
+    <string name="song5Title">Locked Away</string>
+    <string name="song5Artist">Tiffany Alvord</string>
+    <string name="sing6Title">See You Again</string>
+    <string name="song6Artist">Wiz Khalifa/Charlie Puth</string>
+</resources>
